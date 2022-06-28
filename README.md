@@ -1,2 +1,3 @@
-# simulate-data
-let's learn github!
+## Training Repository
+
+Let's learn github!
